@@ -2,7 +2,7 @@
 
 My name is **Amrit Thapa**, a research analyst passionate about spatial analysis.
 
-- 🎓 Masters in Environmental Sciences @ [SES-JNU, India](http://www.jnu.ac.in/) 2012-2014
+- 🎓 Masters in Environmental Sciences @ [SES-JNU, India](https://www.jnu.ac.in/ses/) 2012-2014
 - 🎓 Masters by Research, Glaciology @ [DESE-KU, Nepal](https://ese.ku.edu.np/) 2014-2016
 
 #
